@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lallous5
+- 👋 Hi, I’m Elie Kattour
 - 👀 I’m interested in App Developments
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me 
