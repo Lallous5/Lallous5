@@ -10,10 +10,10 @@
 - 📫 Connect wirth me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/elie-kattour/">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="80px" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="70px" alt="LinkedIn" target="_blank"/>
   </a>
-  <a href="@elie_kattour">
-    <img src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" width="80px" alt="Insta"/>
+  <a href="https://www.instagram.com/elie_kattour/">
+    <img src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" width="70px" alt="Insta" target="_blank"/>
   </a>
 </div>
  
