@@ -6,9 +6,13 @@
 
 - 👋 Hi, I’m Elie Kattour
 - 👀 I’m interested in App Developments
-- 🌱 I’m currently learning Flutter
-- 📫 Connect wirth me:
+- 📱  I'm junior developer as a Flutter Developer
+- 🌱 I’m currently learning QA Tester
+- 📫 Connect with me:
 <div id="badges">
+  <a href="elie.kattour5@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="70px" alt="LinkedIn" target="_blank"/>
+  </a>
   <a href="https://www.linkedin.com/in/elie-kattour/">
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="70px" alt="LinkedIn" target="_blank"/>
   </a>
@@ -19,7 +23,7 @@
  
  My Skills:
        
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,dart,flutter,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,dart,git,firebase,flutter,figma)](https://skills.thijs.gg)
 <!---
 Lallous5/Lallous5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
