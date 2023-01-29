@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning QA Tester
 - 📫 Connect with me:
 <div id="badges">
-  <a href="elie.kattour5@gmail.com">
+  <a href="mailto:elie.kattour5@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="70px" alt="LinkedIn" target="_blank"/>
   </a>
   <a href="https://www.linkedin.com/in/elie-kattour/">
